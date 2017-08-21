@@ -1,0 +1,68 @@
+SKU: stock keeping unit for this item
+*****************************************************************************************************************
+What is a 'Stock Keeping Unit - SKU'
+------------------------------------
+A stock keeping unit (SKU) is a product and service identification code for a store or product, often portrayed as a machine-readable bar code that helps track the item for inventory. A stock keeping unit (SKU) does not need to be assigned to physical products in inventory. Often, SKUs are applied to intangible but billable products, such as units of repair time or warranties.
+
+BREAKING DOWN 'Stock Keeping Unit - SKU'
+----------------------------------------
+SKUs are often used in catalogs, physical and online retail stores, warehouses and product fulfillment centers. Each business creates a different SKU for its goods and services. For example, businesses selling running shorts create different internal SKUs for the shorts. Stores use SKUs for determining which items are in stock and which need reordering, as a method of growing profits.
+Although SKUs are different from model numbers, businesses may include model numbers in SKUs. An SKU’s letter-and-number code reveals a product’s details, such as color, size, style, price, manufacturer and brand. For example, the SKU for purple Ugg boots in the Bailey Bow style, size 6, may read UGG-BB-PUR-06.
+
+SKUs are commonly categorized by products for easier analysis. For example, 25-10xxx is part of a SKU designated for electric ovens. The rest of the number designates the color or another product element.
+
+Importance of Stock Keeping Units
+---------------------------------
+Businesses attach SKUs to different products in one category so that shoppers may compare characteristics of varying items in that group. For example, Amazon.com suggests products related to items in shoppers’ electronic carts based on SKUs of the products being purchased. When a shopper buys a specific DVD, Amazon displays similar movies purchased by other customers, based on SKU information. This method encourages purchasing additional items to increase the company’s revenue.
+
+Differences Between Stock Keeping Units and Universal Product Codes
+-------------------------------------------------------------------
+Because companies create SKUs internally for keeping track of their inventory, SKUs vary among businesses. This is beneficial in advertising when retailers show their SKU in relation to items being displayed. For example, Sears provides its SKU when advertising a refrigerator on sale. Shoppers cannot determine whether they may view the same refrigerator at other stores based on the SKU alone. This stops competitors from matching advertised prices and decreasing sales for Sears, which is the company paying for the advertising.
+
+In contrast, universal product codes (UPCs) are identical regardless of which business sells the items. UPCs track only basic information about a product. Retailers must add UPCs to their databases of inventory and assign SKUs to the products.
+
+
+
+Read more: Stock Keeping Unit (SKU) http://www.investopedia.com/terms/s/stock-keeping-unit-sku.asp#ixzz4qOjHMVI3 
+Follow us: Investopedia on Facebook
+*****************************************************************************************************************
+
+UPC: twelve digit unique number associated with bar code (universal product code)
+
+EAN: thirteen digit unique number (international article number)
+
+MPN: Manufacturing part number unambiguously identifies a part design
+
+ISBN: thirteen digit unique commercial book identifier (international standard book number)
+
+sales information - account: all transactions related to the items you sell will be displayed in this account
+
+purchase information - account: all transactions related to the items you purchase will be displayed in this account
+******************************************************************************************************************
+What is 'Cost Of Goods Sold - COGS'
+-----------------------------------
+Cost of goods sold (COGS) are the direct costs attributable to the production of the goods sold by a company. This amount includes the cost of the materials used in creating the good along with the direct labor costs used to produce the good. It excludes indirect expenses such as distribution costs and sales force costs. COGS appears on the income statement and can be deducted from revenue to calculate a company's gross margin. Also referred to as "cost of sales."
+
+BREAKING DOWN 'Cost Of Goods Sold - COGS'
+-----------------------------------------
+COGS is the cost of creating the products that a company sells; therefore, the only costs included in the measure are those that are directly tied to the production of the products.
+
+For example, the COGS for an automaker would include the material costs for the parts that go into making the car along with the labor costs used to put the car together. The cost of sending the cars to dealerships and the cost of the labor used to sell the car would be excluded.
+
+The exact costs included in the COGS calculation will differ from one type of business to another. The cost of goods attributed to a company's products are expensed as the company sells these goods. There are several ways to calculate COGS but one of the more basic ways is to start with the beginning inventory for the period and add the total amount of purchases made during the period, and then deducting the ending inventory. This calculation gives the total amount of inventory or, more specifically, the cost of this inventory, sold by the company during the period. Therefore, if a company starts with $10 million in inventory, makes $2 million in purchases and ends the period with $9 million in inventory, the company's cost of goods for the period would be $3 million ($10 million + $2 million - $9 million).
+
+
+
+Read more: Cost Of Goods Sold - COGS http://www.investopedia.com/terms/c/cogs.asp#ixzz4qOnysnQT 
+Follow us: Investopedia on Facebook
+******************************************************************************************************************
+
+track inventory - account: all inventory related transactions are displayed in this account
+
+track inventory - opening stock: initial stock refers to the quantity of the item on hand before you start tracking inventroy for the item in zoho inventory
+
+track inventory - reorder level: reorder level refers to the quantity of an item below which an item is considered to be low on stock
+
+opening stock value: opening stock value refers to the average purchase price of your initial stock. this is required for FIFO cost lot tracking and inventory valuation
+
+when item type is service - track inventory is disabled
